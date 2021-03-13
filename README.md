@@ -3,6 +3,7 @@ This is a repo containing files for a HTML/CSS website about Taylor Swift.
 
 ## Usage
 Clone the repository in VS Code or download the files. Then, open index.html in Google Chrome.
+
 ![Screenshot of Website](https://github.com/katiewang22/practice/blob/main/screenshot.png)
 
 ## Support
